@@ -1,7 +1,7 @@
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\1.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\2.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\3.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\4.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\5.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\6.jpg
-c:\Users\kansa\OneDrive\เดสก์ท็อป\test\7.jpg
+![1](https://github.com/user-attachments/assets/ffdb7d39-1ce3-40b4-9500-87dbd5a5e801)![2](https://github.com/user-attachments/assets/7a882e8c-6b92-43e5-9cb4-90e2ee741b08)
+![2](https://github.com/user-attachments/assets/495f562b-2b8d-4371-ab2f-ca32fcf9495a)
+![5](https://github.com/user-attachments/assets/ffc14d5e-71bb-4a97-b815-5a4489163bc2)
+![7](https://github.com/user-attachments/assets/be491403-391a-43d1-9831-9fb8cf8c91c4)
+![6](https://github.com/user-attachments/assets/1d90eb23-98d0-412d-8c7f-d296a33738e1)
+![3](https://github.com/user-attachments/assets/23b893eb-47c1-414e-b74d-62187b130db9)
+![4](https://github.com/user-attachments/assets/d224ffb4-4e8d-4f56-a675-160276cdedc0)
